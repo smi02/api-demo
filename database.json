@@ -7,50 +7,47 @@
     {
       "id": 1,
       "title": "Bưởi da xanh – Bưởi ruột hồng Bến Tre",
-      "price": "40",
+      "price": "40.000/kg",
       "description": "Xuất thân từ huyện Mỏ Cày Bắc, tỉnh Bến Tre, từ lâu, loại bưởi này đã trở thành một trong những loại trái cây Nam Bộ được du khách chào đón nhất. Bưởi có vỏ xanh, quả chín có một đốm vàng cam, múi bưởi màu hồng đỏ rất đẹp. Không giống những loại bưởi thông thường khác, bởi tép bưởi luôn mọng nước, ít hạt lại nhiều múi. Không những thế, bưởi da xanh nổi tiếng bởi vị ngọt thanh mát đậm đà, ăn vào rất đã miệng.",
       "category": "BB",
       "image": "https://nucuoimekong.com/wp-content/uploads/trai-cay-mien-tay-buoi-da-xanh-768x767.jpg",
-      "rating": {
-        "rate": 3.7,
-        "count": 259
-      }
+      "rating": 3.7
     },
     {
       "id": 2,
       "title": "Cam xoàn – Trái cây miền Tây",
-      "price": "35",
+      "price": "35.000/kg",
       "description": "Khác với cam sành, cam xoàn có vị ngọt, ít hạt, tép mỏng màu vàng nhạt và thường được thưởng thức trực tiếp. Vỏ cam xoàn có màu xanh nhạt, không quá sần sùi. Cam sành được trồng nhiều ở huyện Trà Ôn tỉnh Vĩnh Long và huyện Long Mỹ tỉnh Hậu Giang. Cam xoàn có giá trị dinh dưỡng cao và có thể bảo quản lâu dài khoảng từ 1,5-2 tháng nên được nhiều du khách chọn làm quà biếu.",
       "category": "CC",
       "image": "https://nucuoimekong.com/wp-content/uploads/hoa-qua-mien-tay-cam-xoan-768x576.jpg",
-      "rating": {
-        "rate": 3.3,
-        "count": 200
-      }
+      "rating": 3.3
     },
     {
       "id": 3,
       "title": "Chôm chôm",
-      "price": "48",
+      "price": "48.000/kg",
       "description": "Chôm chôm là một trong những loại trái cây miền Nam theo mùa được nhiều người sán đón nhất. Thường được trồng ở Bến Tre và Vĩnh Long là chủ yếu. Chọn chôm chôm phải chọn chùm có lông không bị héo, quả phải cứng. ",
       "category": "CH",
       "image": "https://nucuoimekong.com/wp-content/uploads/dac-san-trai-cay-mien-tay-chom-chom-768x614.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 278
-      }
+      "rating": 3.9
     },
     {
       "id": 4,
       "title": "Vú sữa Lò Rèn Vĩnh Kim",
-      "price": "53",
+      "price": "53.000/kg",
       "description": "Trong những loại hoa quả miền Tây nhất định phải kể đến đó là vũ sữa Lò Rèn. Đây chính là đặc sản trái cây miền Tây được người dân tự hào mỗi khi giới thiệu nó với du khách. Vú sữa Lò Rèn có màu xanh tím rất đặc biệt. Vỏ căng bóng, thịt không có mủ nên đảm bảo hương vị khi du khách nếm tại vườn.  ",
       "category": "VS",
       "image": "https://vinatt.com/vi/wp-content/uploads/2019/04/vusuaphongdien3800x800_LZMJuRaL.jpg",
-      "rating": {
-        "rate": 3.2,
-        "count": 421
-      }
+      "rating": 3.2
+    },
+    {
+      "id": 5,
+      "title": "Dừa nước",
+      "price": "60.000/kg",
+      "description": "Dừa nước cũng khá được ưa chuộng không thua gì với với các loại dừa khác, vì có thể chế biến ra được nhiều loại đồ uống hấp dẫn và nhất là món chè.  ",
+      "category": "DN",
+      "image": "https://cdn.tgdd.vn/2021/05/content/Dua-nuoc-la-gi-co-tac-dung-gi-va-cach-an-dua-nuoc-lam-sao-cho-ngon-6-800x533.jpg",
+      "rating": 4.3
     }
   ]
 }
